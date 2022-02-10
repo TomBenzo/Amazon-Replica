@@ -1,0 +1,39 @@
+.login {
+    display: flex;
+    justify-content: center;
+}
+.logo {
+    align-items: center;
+    width: 45px;
+}
+    
+.container {
+    position: relative;
+    align-items: center;
+    top: 200px;
+}
+
+.container {
+    width: 300px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    border-radius: 7px;
+    box-shadow: 0px 1px 2px 3px rgba(0,0.0,0.1);
+    border: 1px solid lightgrey;
+    padding: 15px;
+}
+.signin {
+    background-color: orange;
+    border-radius: 8px;
+    width: 200px;
+
+
+    
+}
+
+.Creation {
+    background-color: orange ;
+    border-radius: 8px;
+    
+}
